@@ -43,7 +43,6 @@ accordance with fair-use.
 
 # What I read #
 
-<script type="text/javascript"
-src="http://www.douban.com/service/badge/specialstephen/?show=dolist&amp;n=12&amp;columns=6&amp;cat=book">
+<script type="text/javascript" src="http://www.douban.com/service/badge/specialstephen/?show=dolist&amp;n=12&amp;columns=6&amp;cat=book">
 </script>
 
