@@ -1,5 +1,4 @@
 ---
-destination : /home/lxd/Sites/stephenlee.github.com
 auto        : false
 lsi         : false
 pygments    : true
