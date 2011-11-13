@@ -2,8 +2,8 @@
 
 # push scripts for this site
 
-message=echo `date +"%Y-%m-%d-%T"`
-message+=commit
+message=`date +"%Y-%m-%d-%T"`
+message+= commit
 git add .
 git commit -a -m '$message'
 git push -u origin master
