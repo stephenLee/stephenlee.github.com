@@ -31,3 +31,14 @@ here sooner than you think.
 
 * Probability theory is nothing but common sense reduced to calculation.
 > - *Pierre-Simon Laplace*
+
+# Others #
+
+* The only essential knowledge pertains to the inter-relatedness of
+  things.
+> - *Jorge Luis Borges*
+
+
+
+
+
