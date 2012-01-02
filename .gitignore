@@ -1,3 +1,14 @@
-.DS_Store
-._*
-**/._*
+*.html
+*.markdown
+about/
+notes/
+research/
+images/
+files/
+archives/
+_layouts/
+_includes/
+_posts/
+favicon.ico
+_config.xml
+
