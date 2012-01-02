@@ -1,14 +1,1 @@
-*.html
-*.markdown
-about/
-notes/
-research/
-images/
-files/
-archives/
-_layouts/
-_includes/
-_posts/
-favicon.ico
-_config.xml
-
+_site/
