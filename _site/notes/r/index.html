@@ -111,7 +111,7 @@
 
 <p><code>  AL   CA   IL   KS   NY   TN </code></p>
 
-<p><code>4.00 7.25 6.25 5.30 4.25 7.00 </code></p>
+<p><code>4.00 7.25 6.25 5.30 4.25 7.00 </code> use the <strong>names</strong> function</p>
 
 <p><code>&gt; taxrate = c(4,7.25,6.25,5.3,4.25,7)</code></p>
 
@@ -127,7 +127,7 @@
 
 <p><code>4.00 7.25 6.25 5.30 4.25 7.00 </code></p>
 
-<p>use the <strong>names</strong> function access the elements with either numeric subscripts or by using the name of the element</p>
+<p>access the elements with either numeric subscripts or by using the name of the element</p>
 
 <p><code>&gt; taxrate[3]</code></p>
 
@@ -140,6 +140,62 @@
 <p><code>KS</code></p>
 
 <p><code>5.3</code></p>
+
+<p><strong>which</strong> function, converts between logical subscripts and numeric noes which.max which.min system.time rnorm: generate random numbers from the normal distribution with mean 0 and standard deviation 1</p>
+
+<h1 id='modes_and_classes'>Modes and Classes</h1>
+
+<p>try to combine objects of different modes using the <strong>c</strong> function. <strong>R</strong> will find a common mode that can accomodate all the objects.</p>
+
+<h1 id='reading_vectors'>Reading Vectors</h1>
+
+<p><strong>scan</strong> function</p>
+
+<h1 id='missing_values'>Missing Values</h1>
+
+<p>In <strong>R</strong>, missing values are represented by the string <strong>NA</strong>.</p>
+
+<ol>
+<li>Any computation involving a missing value will return a missing value.</li>
+
+<li>Unlike other quantities in <strong>R</strong>, we can&#8217;t directly test to see if something is equal to a missing value with the equality operator (==). We must use the buildin <strong>is.na</strong> function, which will return <strong>TRUE</strong> if a value is missing and <strong>False</strong> otherwise.</li>
+</ol>
+
+<p>how to solve?</p>
+
+<p><strong>na.rm=TRUE</strong> argument</p>
+
+<h1 id='matrices'>Matrices</h1>
+
+<h1 id='data_frames'>Data Frames</h1>
+
+<p>A data frame is like a matrix in that it represents a rectangular array of data, but each column in a data frame can be of a different mode.</p>
+
+<p>data.frame head tail</p>
+
+<p>sapply: simply operations that would require loops in other languages.</p>
+
+<p>refer to the columns of a data frame: 1. Separate the data frame name from the variable name with a dollar sign($)</p>
+
+<ol>
+<li>treat the data frame like it was a matrix</li>
+
+<li>use a character subscript</li>
+
+<li>R provides a special subscripting method (double brackets <span><span /></span>) to extract the actual data from the data frame.</li>
+</ol>
+
+<h1 id='more_on_data_frames'>More on Data Frames</h1>
+
+<ol>
+<li>If you want to extract more than one column of a data frame, you need to use single brackets.</li>
+
+<li>If the goal is to a add one or more new columns to a data frame, you can combine a few operations into one using the <strong>transform</strong> function. The first argument to <strong>transform</strong> is the name of the data frame that will be used to construct the new columns. The remaining arguments to <strong>transform</strong> are name/value pairs describing the new columns.</li>
+</ol>
+
+<h1 id='reading_data_frames_from_files_and_urls'>Reading Data Frames from Files and URLs</h1>
+
+<p><strong>read.table</strong> function A factor in <strong>R</strong> is a variable that is stored as an integer, but displayed as a character string.</p>
 </div>
 
 
