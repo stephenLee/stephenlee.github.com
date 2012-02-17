@@ -38,6 +38,10 @@ here sooner than you think.
   things.
 > - *Jorge Luis Borges*
 
+* We are leaving the age of information and entering the age of
+  recommendation.
+> - *Chris Anderson in The Long Tail*
+
 
 
 
