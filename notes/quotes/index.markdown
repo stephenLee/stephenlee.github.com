@@ -42,7 +42,9 @@ here sooner than you think.
   recommendation.
 > - *Chris Anderson in The Long Tail*
 
-
+* There are many solutions to any problem, but what is the criterion
+  to choose the right one? --simplicity, the Natures's philosophy
+> - *Anonymous*
 
 
 
