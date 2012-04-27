@@ -5,6 +5,6 @@
 
 git add . 
 
-git commit -a -m "Site updated at" date 
+git commit  -m "Site updated at" date 
 
 git push -u origin master
