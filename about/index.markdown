@@ -16,7 +16,8 @@ And I completed my undergraduate studies at there on July 2011
 Currently, I am researching on Machine learning and Data Mining. My
 advisor is Associate Prof.[Piao
 yong](http://ssdut.dlut.edu.cn/teachers/show.php?id=81). I apply
-machine learning techniques to problems in XML structure mining.
+machine learning techniques to problems in social network. Especially the
+classical **link prediction** problem in social networks.
 
 # About this site #
 
