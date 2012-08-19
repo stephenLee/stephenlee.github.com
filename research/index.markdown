@@ -1,11 +1,23 @@
 ---
-layout  : main
-title   : Research 
-section : Research
+layout: main
+title: Research
+top: Stephen Lee
+
 ---
 
-This will be coming soon.
+Research
 ========
+Some usefull links for research
 
++-- {.section}
+[Data](/research/data/)
+============
+Data collection for social network analysis
+=--
 
++-- {.section}
+[Advice](/research/advice/)
+============
+Advices for paper writing and reading.
+=--
 
