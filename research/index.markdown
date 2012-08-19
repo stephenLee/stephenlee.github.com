@@ -18,6 +18,6 @@ Data collection for social network analysis
 +-- {.section}
 [Advice](/research/advice/)
 ============
-Advices for paper writing and reading.
+Advices for research skills, paper writing and reading.
 =--
 
