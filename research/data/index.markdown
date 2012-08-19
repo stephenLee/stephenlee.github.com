@@ -11,4 +11,9 @@ The PROXIMITY HEP-Th database is based on data from the arXiv archive and the St
 # DBLP
 The PROXIMITY DBLP database is based on data from the DBLP Computer Science Bibliography with additional preparation performed by the Knowledge Discovery Laboratory, University of Massachusetts Amherst. More details about the data you can find [here](http://kdl.cs.umass.edu/data/dblp/dblp-info.html)
 
+# Cit-Patents
+Patent citation network. More details about the data you can find
+[here](http://snap.stanford.edu/data/cit-Patents.html)
+
+
 
