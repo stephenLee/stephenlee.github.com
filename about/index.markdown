@@ -45,6 +45,7 @@ accordance with fair-use.
 # CV #
 * [English-Version](https://github.com/stephenLee/CV/blob/master/english/cv_english.pdf?raw=true)
 * [Chinese-Version](https://github.com/stephenLee/CV/blob/master/chinese/cv_chinese.pdf?raw=true)
+
 # What I read #
 
 <script type="text/javascript" src="http://www.douban.com/service/badge/specialstephen/?show=dolist&amp;n=12&amp;columns=6&amp;cat=book">
