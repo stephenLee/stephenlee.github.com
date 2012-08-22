@@ -3,7 +3,7 @@ layout	:  post
 
 title	:  Ubuntu下Latex中文书签乱码问题
 
-exerpt 	:  Latex
+excerpt 	:  Latex 中文书签乱码
 
 ---
 
