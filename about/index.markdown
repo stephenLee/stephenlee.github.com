@@ -17,7 +17,7 @@ Currently, I am researching on Machine learning and Data Mining. My
 advisor is Associate Prof.[Piao
 yong](http://ssdut.dlut.edu.cn/teachers/show.php?id=81). I apply
 machine learning techniques to problems in social network. Especially the
-classical **link prediction** problem in social networks. **CV** [[English-Version](https://github.com/stephenLee/CV/blob/master/english/cv_english.pdf?raw=true)] & [[Chinese-Version](https://github.com/stephenLee/CV/blob/master/chinese/cv_chinese.pdf?raw=true)]
+classical **link prediction** problem in social networks. **CV** [ [English-Version](https://github.com/stephenLee/CV/blob/master/english/cv_english.pdf?raw=true)] & [ [Chinese-Version](https://github.com/stephenLee/CV/blob/master/chinese/cv_chinese.pdf?raw=true)]
 
 # About this site #
 
