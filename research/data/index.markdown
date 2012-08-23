@@ -11,6 +11,9 @@ Address at [here](http://socialcomputing.asu.edu/pages/datasets)
 # Stanford Large Network Dataset Collection
 Address at [here](http://snap.stanford.edu/data/index.html)
 
+# Bitly research-quality data sets collected by hmason #
+Address at [here](https://bitly.com/bundles/hmason/1)
+
 # HEP-Th
 The PROXIMITY HEP-Th database is based on data from the arXiv archive and the Stanford Linear Accelerator Center SPIRES-HEP database provided for the 2003 KDD Cup competition with additional preparation performed by the Knowledge Discovery Laboratory, University of Massachusetts Amherst. More details about the data you can find [here](http://kdl.cs.umass.edu/data/hepth/hepth-info.html)
 
