@@ -25,11 +25,13 @@ reverse chronological order.
     <a class="title" href="{{ post.url }}">{{ post.title }}</a>
 	 <a class="comments" href="{{ post.url }}#disqus_thread">View Comments</a>
   </p>
-  <p class="excerpt">{% if post.excerpt %}
-	{{ post.excerpt }}
-  {% else %}
-    {{ post.content | html_truncate }}
-  {% endif %}</p>
+  <p class="excerpt">
+    {% if post.excerpt %}
+       	{{ post.excerpt }}
+    {% else %}
+        {{ post.content | html_truncate }}
+    {% endif %}
+ </p>
 </div>
 {% assign year = curryear %}{% assign month = currmonth %}{% endfor %}
 

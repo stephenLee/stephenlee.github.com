@@ -32,7 +32,7 @@ Recent posts
    <a class="comments" href="{{ post.url }}#disqus_thread">View Comments</a>
 </p>
 <p class="excerpt">
-	{% if post.excetpt %}
+	{% if post.excerpt %}
 		{{ post.excerpt}}
 	{% else %}
 		{{ post.content | html_truncate }}
