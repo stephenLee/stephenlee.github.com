@@ -28,3 +28,6 @@ Patent citation network. More details about the data you can find
 [Meetup](http://www.meetup.com/) and [PlanCast](http://www.plancast.com/) data sets.
 Address at [here](http://www.largenetwork.org/ebsn)
 
+# YouTube data #
+[Youtube data set](http://leitang.net/heterogeneous_network.html)
+
