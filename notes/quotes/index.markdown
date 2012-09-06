@@ -27,11 +27,13 @@ here sooner than you think.
 
 > - *Eric S.Raymond [The Art of Unix Programming](http://www.faqs.org/docs/artu/ch01s06.html)*                                 
 
-* "No matter what language you work in, programming in a functional style provides
+* No matter what language you work in, programming in a functional style provides
    benefits. You should do it whenever it is convenient, and you should think hard
    about the decision when it isn't convinient.
 > - *-- John Carmack*
 
+* Only ugly languages become popular. Python is the one exception.
+> - *-- Don Knuth*
 # Mathematics # 
 
 * Probability theory is nothing but common sense reduced to calculation.
