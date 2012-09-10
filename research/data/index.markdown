@@ -11,6 +11,9 @@ Address at [here](http://socialcomputing.asu.edu/pages/datasets)
 # Stanford Large Network Dataset Collection
 Address at [here](http://snap.stanford.edu/data/index.html)
 
+# CMU CASOS Datasets
+Address at [here](http://www.casos.cs.cmu.edu/computational_tools/data2.php)
+
 # Bitly research-quality data sets collected by hmason #
 Address at [here](https://bitly.com/bundles/hmason/1)
 
