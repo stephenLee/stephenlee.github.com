@@ -47,6 +47,9 @@ here sooner than you think.
 
 # Others #
 
+* any fool can know ... the point is to understandard.
+> - *Albert Einstein*
+
 * The only essential knowledge pertains to the inter-relatedness of
   things.
 > - *Jorge Luis Borges*
