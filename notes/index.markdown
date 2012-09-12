@@ -10,9 +10,9 @@ Notes
 Some notes
 
 +-- {.section}
-[Haskell](/notes/haskell/)
+[Scala](/notes/scala/)
 ============
-haskell notes
+Scala notes
 =--
 
 +-- {.section}

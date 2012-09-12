@@ -1,10 +1,10 @@
 ---
-title: Haskell 
+title: Scala 
 section: Notes
 layout: main
 
 ---
-Haskell
+Scala
 ========
 
 Coming soon.
