@@ -29,23 +29,20 @@ I find there exits two main problems.
    The reason is that my operating system is an English version. And I
    need to install Chinese language environment. Concrete method like this:
    
-   + Look at the current language environment:
+   * Look at the current language environment:
    
-    `locale` 
+      `locale` 
     
-   + Install zh_CN.utf8:
+   * Install zh_CN.utf8:
    
      `cd /usr/share/locales`
      
      `./install-language-pack zh_CN `
      
-   + Edit /etc/environment and add this line:
+   * Edit /etc/environment and add this line:
    
      `LC_CTYPE="zh_CN.UTF-8"`
    
-   + Reboot and It will be ok
+   * Reboot and It will be ok
    
 Hope this can help others who met the same problem as I!
-   
-
-   
