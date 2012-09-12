@@ -34,12 +34,13 @@ here sooner than you think.
 
 * Only ugly languages become popular. Python is the one exception.
 > - *-- Don Knuth*
+
 # Mathematics # 
 
 * Probability theory is nothing but common sense reduced to calculation.
 > - *Pierre-Simon Laplace*
 
-* Math is hard work and it occupies your work -and it doesn't hurt to learn all you
+* Math is hard work and it occupies your mind -and it doesn't hurt to learn all you
   can of it, no matter what rank you are; everything of any importance is founded on
   mathematics.
 > - *Johnnie Rico*
