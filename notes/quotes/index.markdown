@@ -39,6 +39,11 @@ here sooner than you think.
 * Probability theory is nothing but common sense reduced to calculation.
 > - *Pierre-Simon Laplace*
 
+* Math is hard work and it occupies your work -and it doesn't hurt to learn all you
+  can of it, no matter what rank you are; everything of any importance is founded on
+  mathematics.
+> - *Johnnie Rico*
+
 # Others #
 
 * The only essential knowledge pertains to the inter-relatedness of
