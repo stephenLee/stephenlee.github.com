@@ -15,7 +15,7 @@ frame of the calling function.
 
 * factorial function non tail recursion:
 
-  `def factorial(n: Int): Int = if (n==0) 1 else n * factorial(n-1)`
+  <script src="https://gist.github.com/3714379.js"> </script>
 
 * A tail-recursive version of factorial:
 
