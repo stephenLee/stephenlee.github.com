@@ -16,9 +16,36 @@ than fill the the code with unnecessary, explicit type annotations.
 `scala> val msg = "Hello World!"`
 
 `msg: java.lang.string = Hello, world`
-## ##
+## General rules ##
 
-If a function is recursive, you must explicitly specify the function's result type.
+* If a function is recursive, you must explicitly specify the function's result type.
+* if a object defines an **apply** method call, any application of an object to some
+arguments in parentheses will be transformed to an **apply** method call.
+* if a method is used in operator notation, the method is invoked on the **left** operand.
+
+  `a * b == a.*(b)`
+  
+  if the method name ends in a colon, the method is invoked on the **right**
+  operand.
+  
+  `1 :: twoThree = twoThree.::(1)`
+* Prefer vals, immutable objects and methods without side effects. Reach for them first,
+  Use vars, mutable objects and methods with side effects when you have a specific
+  need and justification for them.
+*  Method parameters in Scala are **vals** not **vars**.
+* Any method can be an operator.
+
+## Functional objects ##
+* precondition: a constraint on values passed into a method or constructor. (use ** require**)
+* auxiliary constructors: constructors other than the primary constructor. ( ** def this(...)**) Every constructor invocation in Scala will end up eventially calling the 
+primary constructor of the class. The primary constructor is the single point of entry of a class. A Rational class demo:
+
+<script src="https://gist.github.com/3735803.js"> </script>
+
+## Singleton objects ##
+**companion object** and **companion class**  share the same name in the same 
+source file. They can access each other's private memebers. A singleton object that
+does not share the same name with a companion class is called a **standalone object**.
 
 ## Tail Recursion ##
 If the last action of the function is a call to another(possibly the same) 
@@ -33,6 +60,8 @@ frame of the calling function.
 * A tail-recursive version of factorial:
 
    <script src="https://gist.github.com/3714308.js"> </script>
+   
+  
    
   
 
