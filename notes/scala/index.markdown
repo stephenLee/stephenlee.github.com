@@ -66,6 +66,9 @@ and then pass them around as values. The distinction between function literals a
 
 <script src="https://gist.github.com/3736361.js"> </script>
 
+## Partially applied function ##
+A partially applied function is an expression in which you supply some  or none of the needed arguments by the function.
+<script src="https://gist.github.com/3737017.js"> </script>
 
 ## Singleton objects ##
 **companion object** and **companion class**  share the same name in the same 
