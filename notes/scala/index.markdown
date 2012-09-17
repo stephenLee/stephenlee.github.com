@@ -70,6 +70,10 @@ and then pass them around as values. The distinction between function literals a
 A partially applied function is an expression in which you supply some  or none of the needed arguments by the function.
 <script src="https://gist.github.com/3737017.js"> </script>
 
+## Currying ##
+A curried function is applied to multiple argument list, instead of just one.
+<script src="https://gist.github.com/3737211.js"> </script>
+
 ## Singleton objects ##
 **companion object** and **companion class**  share the same name in the same 
 source file. They can access each other's private memebers. A singleton object that
