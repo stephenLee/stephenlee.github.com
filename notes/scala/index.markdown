@@ -37,7 +37,7 @@ arguments in parentheses will be transformed to an **apply** method call.
 
 ## Functional objects ##
 * precondition: a constraint on values passed into a method or constructor. (use ** require**)
-* auxiliary constructors: constructors other than the primary constructor. ( ** def this(...)**) Every constructor invocation in Scala will end up eventially calling the 
+* auxiliary constructors: constructors other than the primary constructor. ( **def this(...)**) Every constructor invocation in Scala will end up eventially calling the 
 primary constructor of the class. The primary constructor is the single point of entry of a class. A Rational class demo:
 
 <script src="https://gist.github.com/3735803.js"> </script>
