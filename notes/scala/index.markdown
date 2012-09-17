@@ -42,6 +42,31 @@ primary constructor of the class. The primary constructor is the single point of
 
 <script src="https://gist.github.com/3735803.js"> </script>
 
+## First-class functions ##
+You can define functions and call them, you can write down functions as unnamed literals
+and then pass them around as values. The distinction between function literals and value is that function literals exist in the souce code, whereas function values exist as objects at runtime.
+
+## Short forms of functional literals ##
+* Leave off the parameter type.
+
+`scala> someNumbers.filter((x) => x > 0)`
+* Leave out parentheses around a parameter whose type is inferred.
+
+`scala> someNumbers.filter(x => x > 0)`
+
+* Placeholder syntax
+
+`scala> someNumbers.filter(_ > 0)`
+
+* Specify the types using a colon(when ompiler can't infer missing parameter type)
+
+`scala> val f = (_: Int) + (_: Int)`
+
+## Repeated parameters ##
+
+<script src="https://gist.github.com/3736361.js"> </script>
+
+
 ## Singleton objects ##
 **companion object** and **companion class**  share the same name in the same 
 source file. They can access each other's private memebers. A singleton object that
