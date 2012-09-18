@@ -111,7 +111,14 @@ frame of the calling function.
 
    <script src="https://gist.github.com/3714308.js"> </script>
    
-  
+## Trait & Class ##
+* A trait can't have any "class" parameters.
+
+* In traits, super calls are dynamically bound.
+
+## Trait as stackable modifications ##
+The order of mixins is significant, traits further to the right take effect first.
+<script src="https://gist.github.com/3742681.js"> </script>
    
   
 
