@@ -74,6 +74,24 @@ A partially applied function is an expression in which you supply some  or none 
 A curried function is applied to multiple argument list, instead of just one.
 <script src="https://gist.github.com/3737211.js"> </script>
 
+## Namespaces ##
+Scala's two namespaces are:
+
+* values(fields, methods, packages, and singleton objects)
+
+* types(class and trait names)
+
+You can override a parameterless method with a val as fields and methods are at the 
+same namespace.
+
+    class ArrayElement(conts: Array[String]) extends Element {
+      def contents: Array[String] = conts 
+    }
+
+    class ArrayElement(conts: Array[String]) extends Element {
+      val contents: Array[String] = conts
+    }
+ 
 ## Singleton objects ##
 **companion object** and **companion class**  share the same name in the same 
 source file. They can access each other's private memebers. A singleton object that
