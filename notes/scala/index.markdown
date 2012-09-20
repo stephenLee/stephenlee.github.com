@@ -119,6 +119,21 @@ frame of the calling function.
 ## Trait as stackable modifications ##
 The order of mixins is significant, traits further to the right take effect first.
 <script src="https://gist.github.com/3742681.js"> </script>
+
+## case class ##
+ case class makes the Scala compiler add some syntactic conveniences to your class.
+ 
+ * it adds a factory method with the name of the class.
+ 
+ * all arguments in the parameter list of a case class implicitly get a val prefix.
+   so they are maintained as fields.
+   
+ * the compiler adds "natural" implementations of methods toString, hashCode, and
+   equals to your class.
+   
+ * the compiler adds a copy method to your class for making modified copies.
+ 
+ <script src="https://gist.github.com/3753293.js"> </script>
    
   
 
