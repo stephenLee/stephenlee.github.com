@@ -4,6 +4,7 @@ layout: post
 title: CIKM2012 interesting papers
 
 excerpt: CIKM2012 interesting papers
+published: false
 ---
 
 CIKM 2012 papers have been [posted](http://www.cikm2012.org/accepted_papers.php). 
@@ -23,7 +24,7 @@ Domains](http://www.mengjiang.me/cikm12-social-recommendation-across-multiple-re
 
 The industry part also sounds interesting.
 
-* ( Programming and Debugging Large-Scale Data Processing Workflows )[http://cloud.berkeley.edu/data/data-prog-debug.pdf] by Christopher Olston from Google.
+* (Programming and Debugging Large-Scale Data Processing Workflows)[http://cloud.berkeley.edu/data/data-prog-debug.pdf] by Christopher Olston from Google.
 
 * (Having A Great Career in Research)[http://www.cikm2012.org/industry_event.php#Eric] by Eric Brill from eBay.
 
