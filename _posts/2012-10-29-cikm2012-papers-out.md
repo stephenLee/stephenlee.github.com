@@ -5,7 +5,6 @@ title: CIKM2012 interesting papers
 
 excerpt: CIKM2012 interesting papers
  
-published: false
 ---
 
 CIKM 2012 papers have been [posted](http://www.cikm2012.org/accepted_papers.php). 
