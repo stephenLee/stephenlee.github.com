@@ -39,3 +39,6 @@ Address at [here](http://www.largenetwork.org/ebsn)
 # YouTube data #
 [Youtube data set](http://leitang.net/heterogeneous_network.html)
 
+# Web Search Query Log #
+ [Web Search Query Log](http://jeffhuang.com/search_query_logs.html)
+
