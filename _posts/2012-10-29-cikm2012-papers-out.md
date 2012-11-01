@@ -22,10 +22,10 @@ Heterogeneous Networks](http://keg.cs.tsinghua.edu.cn/jietang/publications/CIKM1
 * [Social Recommendation Across Multiple Relational
 Domains](http://www.mengjiang.me/cikm12-social-recommendation-across-multiple-relational-domains.pdf) by Meng Jiang, Peng Cui, Fei Wang etc.
 
+* [Bridging Offline and Online Social Graph Dynamics](http://www.stanford.edu/~manuelgr/pubs/events-cikm12.pdf) by Manuel Gomez Rodriguez, Monica Rogati (**ps** [long version](http://www.stanford.edu/~manuelgr/pubs/events-long.pdf))
+
 The industry part also sounds interesting.
 
 * [Programming and Debugging Large-Scale Data Processing Workflows](http://cloud.berkeley.edu/data/data-prog-debug.pdf)by Christopher Olston from Google
 
 * [Having A Great Career in Research](http://www.cikm2012.org/industry_event.php#Eric) by Eric Brill from eBay.
-
-
