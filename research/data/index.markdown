@@ -41,4 +41,7 @@ Address at [here](http://www.largenetwork.org/ebsn)
 
 # Web Search Query Log #
  [Web Search Query Log](http://jeffhuang.com/search_query_logs.html)
+ 
+#The Laboratory for Web Algorithmics data sets#
+[Address at here](http://law.di.unimi.it/datasets.php)
 
