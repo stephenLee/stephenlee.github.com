@@ -18,6 +18,8 @@ layout: main
 
 * [Slides on how to write good papers](http://www.daniel-lemire.com/blog/archives/2010/03/26/write-good-papers-my-slides/) by Daniel Lemire
 
+* [How to implement an algorithm from a scientific paper](http://codecapsule.com/2012/01/18/how-to-implement-a-paper/) by Emmanuel Goossaert
+
 
 
 
