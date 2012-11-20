@@ -35,9 +35,8 @@ I want to automatically run a python script in the background at regular interva
     
 **Reference:**
 
-\[1\]: [http://kvz.io/blog/2007/07/29/schedule-tasks-on-linux-using-crontab/] []
+* \[1\]: [http://kvz.io/blog/2007/07/29/schedule-tasks-on-linux-using-crontab/] []
 [http://kvz.io/blog/2007/07/29/schedule-tasks-on-linux-using-crontab/]: http://kvz.io/blog/2007/07/29/schedule-tasks-on-linux-using-crontab/
 
-\[2\]: [http://stackoverflow.com/questions/8727935/execute-python-script-on-crontab] []
-[http://stackoverflow.com/questions/8727935/execute-python-script-on-crontab]:
-http://stackoverflow.com/questions/8727935/execute-python-script-on-crontab
+* \[2\]: [http://stackoverflow.com/questions/8727935/execute-python-script-on-crontab] []
+[http://stackoverflow.com/questions/8727935/execute-python-script-on-crontab]: http://stackoverflow.com/questions/8727935/execute-python-script-on-crontab
