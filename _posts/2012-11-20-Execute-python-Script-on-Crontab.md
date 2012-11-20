@@ -4,7 +4,7 @@ layout: post
 title: Execute python script on Crontab
 
 excerpt: Execute python script on Crontab
-published: false
+ 
 ---
 
 I want to automatically run a python script in the background at regular intervals, So I refer to Crontab. I have heared crontab for a long time, however, I still make some mistakes. And I will take notes about it here. BTW, I find a really helpful material[1] about Crontab. 
