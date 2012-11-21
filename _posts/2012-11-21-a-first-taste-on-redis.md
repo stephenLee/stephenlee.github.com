@@ -4,13 +4,14 @@ layout: post
 title: A first taste on redis using python client
 
 excerpt: python with redis 
+ 
 ---
 
 I write a small robot to collect popular machine learning topics and discussions at Reddit, and then post these reddits to a social network web site in my country. I don't want to store those messages, so it's simple. But I need to store reddit_id, I can judge whether I need to post this message through reddit_id. Reddit_id is unique, the same id implies the same message. It's not interesting to post the same message. It's unfriendly  for your followers. Relational database is complex, not very flexible. NoSql may be suited for this. I have heared redis a lot, famous for its efficient. I plan to try it.
 
 Redis has numerous [clients](http://redis.io/clients), like python, C++, ruby, scala. I love python. and I need to store objects in Redis. Lucky enough, there is a project about this. It's called [redisco](https://github.com/kiddouk/redisco). I'll breifly introduce how to use it.
 
-** Installing **
+## Installing ##
 
 * Install redis
 
@@ -24,7 +25,7 @@ redisco requires redis-py
     sudo pip install redisco
 make sure no errors when install.
 
-** Connecting to Redis **
+## Connecting to Redis ##
 
 Launch Redis:
 
@@ -33,7 +34,7 @@ It'll use default configuration.
 
     (host='localhost', port=6379, db=0)
 
-** How to use it **
+## How to use it ##
 
 First, let's define our model:
 
