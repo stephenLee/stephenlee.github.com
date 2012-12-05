@@ -10,6 +10,12 @@ Notes
 Some notes
 
 +-- {.section}
+[Cpp](/notes/cpp/)
+============
+Cpp notes and mistakes that I made.
+=--
+
++-- {.section}
 [Scala](/notes/scala/)
 ============
 Scala notes
