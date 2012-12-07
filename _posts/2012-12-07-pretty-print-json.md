@@ -5,7 +5,6 @@ title: pretty print json
 
 excerpt: pretty print json
  
-published: false
 ---
 
 JSON format is effective and lightweight for searilization. Many open platform services
