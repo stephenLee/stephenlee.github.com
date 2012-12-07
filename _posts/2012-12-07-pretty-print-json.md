@@ -5,9 +5,8 @@ title: pretty print json
 
 excerpt: pretty print json
  
+published: false
 ---
-
-# Pretty print json
 
 JSON format is effective and lightweight for searilization. Many open platform services
 use it. Today, when I craw some data from a web site, it returns a complex fragment of json data like [this](http://weibo.com/aj/mblog/mbloglist?_wv=5&profile_ftype=1&count=50&_k=135486386688066&uid=1920061532&_t=0&__rnd=1354863930022). It's unreadable and I can't figure out its formation. So I search the web and find
