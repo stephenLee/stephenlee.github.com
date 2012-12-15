@@ -10,11 +10,5 @@ LaTeX
 
 ## Command for argmax and argmin ##
 
-```latex   
-\DeclareMathOperator*{\argmax}{arg\,max}  % in your preamble
-\DeclareMathOperator*{\argmin}{arg\,min}  % in your preamble 
-     
-\argmax_{...} % in your formula
-\argmin_{...} % in your formula 
-```
+<script src="https://gist.github.com/4292186.js"></script>
 
