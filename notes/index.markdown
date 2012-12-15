@@ -28,6 +28,12 @@ r notes
 =--
 
 +-- {.section}
+[LaTeX](/notes/latex/)
+============
+LaTeX notes
+=--
+
++-- {.section}
 [Quotes](/notes/quotes/)
 ====
 Some quotes that change my perspective on the world.
