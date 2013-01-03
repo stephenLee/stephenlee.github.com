@@ -83,5 +83,8 @@ here sooner than you think.
   to choose the right one? --simplicity, the Natures's philosophy
 > - *Anonymous*
 
+* Fortune favors the prepared mind.
+> - *Louis Pasteur*
+
 
 
