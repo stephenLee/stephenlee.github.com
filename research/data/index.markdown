@@ -5,7 +5,7 @@ layout: main
 
 ---
 # The Koblenz Network Collection
-Address at[here](http://konect.uni-koblenz.de/networks)
+Address at [here](http://konect.uni-koblenz.de/networks)
 
 # Social Computing Data Repository at Arizona State University!
 Address at [here](http://socialcomputing.asu.edu/pages/datasets)
@@ -15,6 +15,9 @@ Address at [here](http://snap.stanford.edu/data/index.html)
 
 # Datamob datasets
 Address at [here](http://datamob.org/datasets)
+
+# BGU Social Networks Security Research Group
+Address at [here](http://proj.ise.bgu.ac.il/sns/datasets.html)
 
 # CMU CASOS Datasets
 Address at [here](http://www.casos.cs.cmu.edu/computational_tools/data2.php)
