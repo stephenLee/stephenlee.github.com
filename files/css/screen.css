@@ -46,7 +46,8 @@ h1,h2,h3,h4 {
 	font-size:1.5em; 
 	font-weight: normal; 
 	clear: left; 	
-	font-family: 'lucida grande', sans-serif; 
+	/* font-family: 'lucida grande', sans-serif; */
+	font-family: 'Source Sans Pro', sans-serif;
 }
 h1 { margin-bottom: 1em; }
 h2 {
