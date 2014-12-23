@@ -10,31 +10,31 @@ Notes
 Some notes
 
 +-- {.section}
-_[Cpp](/notes/cpp/)_
+[Cpp](/notes/cpp/)
 ============
 Cpp notes and mistakes that I made.
 =--
 
 +-- {.section}
-_[Scala](/notes/scala/)_
+[Scala](/notes/scala/)
 ============
 Scala notes
 =--
 
 +-- {.section}
-_[The R Language](/notes/r/)_
+[The R Language](/notes/r/)
 ============
 r notes
 =--
 
 +-- {.section}
-_[LaTeX](/notes/latex/)_
+[LaTeX](/notes/latex/)
 ============
 LaTeX notes
 =--
 
 +-- {.section}
-_[Quotes](/notes/quotes/)_
+[Quotes](/notes/quotes/)
 ====
 Some quotes that change my perspective on the world.
 =--
