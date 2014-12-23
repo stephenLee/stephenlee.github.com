@@ -21,8 +21,8 @@ body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,form,fieldset,p,blockquote,th,t
 /* @end */
 
 body {
-	/* font-family: Palatino, georgia, "times new roman", serif; */
-	font-family: 'Source Sans Pro', sans-serif;
+	font-family: Palatino, georgia, "times new roman", serif; 
+	/* font-family: 'Source Sans Pro', sans-serif; */
 	background-color: whitesmoke;
 	background-position: center -18em;
 	background-repeat: repeat-x; 
@@ -46,8 +46,8 @@ h1,h2,h3,h4 {
 	font-size:1.5em; 
 	font-weight: normal; 
 	clear: left; 	
-	/* font-family: 'lucida grande', sans-serif; */
-	font-family: 'Source Sans Pro', sans-serif;
+	font-family: 'lucida grande', sans-serif; 
+	/* font-family: 'Source Sans Pro', sans-serif; */
 }
 h1 { margin-bottom: 1em; }
 h2 {
@@ -287,8 +287,8 @@ body#Kith #header a.kith
 	padding-right: 3em;
 }
 .section h1 {
-	/* font-family: Palatino, georgia, serif; */
-	font-family: 'Source Sans Pro', sans-serif;
+	font-family: Palatino, georgia, serif; 
+	/* font-family: 'Source Sans Pro', sans-serif; */
 	font-size: 100%;
 	line-height: 1.43em;
 	position: absolute;
