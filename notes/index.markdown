@@ -1,8 +1,8 @@
 ---
 layout: main
-title: Notes 
+title: Notes
 top: Stephen Lee
-
+published: true
 ---
 
 Notes
@@ -10,31 +10,31 @@ Notes
 Some notes
 
 +-- {.section}
-[Cpp](/notes/cpp/)
+_[Cpp](/notes/cpp/)_
 ============
 Cpp notes and mistakes that I made.
 =--
 
 +-- {.section}
-[Scala](/notes/scala/)
+_[Scala](/notes/scala/)_
 ============
 Scala notes
 =--
 
 +-- {.section}
-[The R Language](/notes/r/)
+_[The R Language](/notes/r/)_
 ============
 r notes
 =--
 
 +-- {.section}
-[LaTeX](/notes/latex/)
+_[LaTeX](/notes/latex/)_
 ============
 LaTeX notes
 =--
 
 +-- {.section}
-[Quotes](/notes/quotes/)
+_[Quotes](/notes/quotes/)_
 ====
 Some quotes that change my perspective on the world.
 =--
