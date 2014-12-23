@@ -11,7 +11,7 @@ Welcome
 =======
 
 I'm Stephen Lee, a second year graduate student at [Dalian University of Technology](http://www.dlut.edu.cn) (China).
-I will use this site to host my blog, notes, quotes, and my research. You can find out more about me by poking around the 
+I will use this site to host my blog. You can find out more about me by poking around the 
 links above and below.
 
 Blog
