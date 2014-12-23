@@ -9,19 +9,14 @@ top 	: Stephen Lee
 
 # About me #
 
-I am a graduate student pursuing my M.S in [Software
+I am a master student graduate from [Software
 School](http:ssdut.dlut.edu.cn) at [Dalian University of
 Technology](http://www.dlut.edu.cn) (China). 
-And I completed my undergraduate studies at there on July 2011
-Currently, I am researching on Machine learning and Data Mining. My
-advisor is Associate Prof.[Piao
-yong](http://ssdut.dlut.edu.cn/teachers/show.php?id=81). I apply
-machine learning techniques to problems in social network. Especially the
-classical **link prediction** problem in social networks. 
+I am interest in  Machine learning and Data Mining.
 
 # Resume #
 
-**CV** [ [English-Version](https://github.com/stephenLee/CV/blob/master/english/cv_english.pdf?raw=true)] & [ [Chinese-Version](https://github.com/stephenLee/CV/blob/master/chinese/cv_chinese.pdf?raw=true)]
+**CV** [ [English-Version](https://cdn.rawgit.com/stephenLee/CV/master/cv_english.pdf)] & [ [Chinese-Version](https://cdn.rawgit.com/stephenLee/CV/master/cv_chinese.pdf)]
 
 # About this site #
 
