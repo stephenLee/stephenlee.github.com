@@ -2,7 +2,7 @@
 layout: main
 title: Research
 top: Stephen Lee
-
+published: true
 ---
 
 Research
@@ -20,4 +20,3 @@ Data collections for social network analysis
 ============
 Advice collections for research skills, paper writing and reading.
 =--
-
